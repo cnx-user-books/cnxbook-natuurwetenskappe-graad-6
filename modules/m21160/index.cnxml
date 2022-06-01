@@ -1,0 +1,182 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om materiale te klassifiseer</title>
+  <metadata>
+  <md:content-id>m21160</md:content-id><md:title>Om materiale te klassifiseer</md:title>
+  <md:abstract/>
+  <md:uuid>680b51a9-de6e-4375-b897-f1efd0c6fb83</md:uuid>
+</metadata>
+
+<content>
+    <section id="id13321114">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id13321114">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13108998">
+      <title>Materie en Stowwe</title>
+      <para id="para-id13108998">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14685118">
+      <title>Eienskappe en gebruike van materie</title>
+      <para id="para-id14685118">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12878104">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id12878104">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13315255">
+      <title>Memorandum</title>
+      <para id="id14441163">Voltooi die volgende tabel:</para>
+      <table id="id13825410" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>EIENSKAPPE</entry>
+              <entry>VASTE STOF</entry>
+              <entry>VLOEISTOF</entry>
+              <entry>GAS</entry>
+            </row>
+            <row>
+              <entry>VOLUME</entry>
+              <entry/>
+              <entry/>
+              <entry>Dit het nie ‘n vaste volume nie – die volume verander maklik. Dit ver-sprei en neem die spasie in wat beskikbaar is.</entry>
+            </row>
+            <row>
+              <entry>VORM</entry>
+              <entry/>
+              <entry>Dit neem die vorm van die houer aan.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>GEWIG</entry>
+              <entry/>
+              <entry/>
+              <entry>Dit het gewig.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id14466802">Voorbeelde van faseverandering:</para>
+      <list id="id6775424" list-type="bulleted">
+        <item>Vaste stof na vloeistof: ys na water</item>
+        <item>Vloeistof na vaste stof: water na ys</item>
+        <item>Vloeistof na gas: water wat kook, waterdamp</item>
+        <item>Gas na vloeistof: waterdamp / vog wat kondenseer teen glas, bv. motor- of  kombuisvensters</item>
+      </list>
+    </section>
+    <section id="id13479281">
+      <title>LEERDER AFDELING</title>
+      <para id="para-id13479281">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13495978">
+      <title>Inhoud</title>
+      <section id="id13867651">
+        <title>AKTIWITEIT: Om materiale te klassifiseer [LU 2.2, LU 2.3]</title>
+        <list id="id13340622" list-type="bulleted">
+          <item>Wanneer stowwe in groepe met dieselfde eienskappe verdeel word, noem ons dit <emphasis effect="bold">klassifikasie</emphasis>.</item>
+          <item>Wetenskaplikes klassifiseer verskillende materiale op verskillende maniere. Die bekendste manier is om dit volgens <emphasis effect="bold">vaste stowwe, vloeistowwe</emphasis> en <emphasis effect="bold">gasse</emphasis> te klassifiseer.</item>
+        </list>
+        <para id="id14539302">Voltooi die volgende tabel:</para>
+        <table id="id12582869" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>
+                  <media id="id13388596" alt="">
+                    <image mime-type="image/png" src="../../media/graphics1-0b31.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id9429260" alt="">
+                    <image mime-type="image/png" src="../../media/graphics2-22b1.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id13809193" alt="">
+                    <image mime-type="image/png" src="../../media/graphics3-04d6.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>EIENSKAPPE</entry>
+                <entry>VASTE STOF</entry>
+                <entry>VLOEISTOF</entry>
+                <entry>GAS</entry>
+              </row>
+              <row>
+                <entry>VOLUME</entry>
+                <entry>Dit het ‘n vaste volume.</entry>
+                <entry>Dit het ‘n vaste volume.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>VORM</entry>
+                <entry>Dit het ‘n vaste  vorm.</entry>
+                <entry/>
+                <entry>Dit neem die vorm  van die houer aan.</entry>
+              </row>
+              <row>
+                <entry>GEWIG</entry>
+                <entry>Dit het gewig.</entry>
+                <entry>Dit het gewig.</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id9400826">‘n Stof kan van een <emphasis effect="bold">fase</emphasis> na ‘n ander <emphasis effect="bold">verander</emphasis> deur <emphasis effect="bold">verhitting</emphasis> of <emphasis effect="bold">afkoeling</emphasis>: </para>
+        <figure id="id13479942">
+          <media id="id13479942_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-32d7.png" id="id13479942__onlineimage" height="342" width="335"/>
+          </media>
+        </figure>
+        <para id="id11140370">Gee ‘n voorbeeld van die volgende soorte fase-veranderings:</para>
+        <list id="id13315110" list-type="bulleted">
+          <item>Vaste stof na vloeistof:</item>
+        </list>
+        <para id="id13522419">_____________________________________________________________________</para>
+        <para id="id13327525">_____________________________________________________________________</para>
+        <list id="id13799071" list-type="bulleted">
+          <item>Vloeistof na vaste stof:</item>
+        </list>
+        <para id="id9578932">_____________________________________________________________________</para>
+        <para id="id12941203">_____________________________________________________________________</para>
+        <list id="id9221601" list-type="bulleted">
+          <item>Vloeistof na gas:</item>
+        </list>
+        <para id="id9416606">_____________________________________________________________________</para>
+        <para id="id13480350">_____________________________________________________________________</para>
+        <list id="id4181580" list-type="bulleted">
+          <item>Gas na vloeistof:</item>
+        </list>
+        <para id="id13807582">_____________________________________________________________________</para>
+        <para id="id12817591">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id12889055">
+      <title>Assessering</title>
+      <para id="id5165940"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder ken, interpreteer en pas wetenskaplike, tegnologiese en omgewingskennis toe.</para>
+      <para id="id6779933"><emphasis><emphasis effect="italics">Assesseringstandaard 2.2:</emphasis></emphasis><emphasis>Dit is duidelik wanneer die leerder</emphasis> inligting kategoriseer: kategoriseer voorwerpe en organismes in terme van twee veranderlikes.</para>
+      <para id="id6775681"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis><emphasis>Dit is duidelik wanneer die leerder</emphasis> inligting interpreteer.</para>
+    </section>
+  </content>
+</document>
